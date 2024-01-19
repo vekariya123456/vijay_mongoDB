@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("hellow");
+    printf("hellow world");
 }
+
